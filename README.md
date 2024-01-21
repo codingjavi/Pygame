@@ -1,3 +1,3 @@
 # Space Invaders
 
-As one of my first coding project I created space invaders with pygame.
+I created space invaders with pygame to learn and further my understanding of python.
